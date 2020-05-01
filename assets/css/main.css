@@ -1630,7 +1630,7 @@
 
 	body {
 		background-color: #fff;
-		color: #000000;
+		color: #444;
 	}
 
 	body, input, select, textarea {
@@ -1798,7 +1798,7 @@
 
 	.box {
 		margin-bottom: 2rem;
-		background: #A9A9A9;
+		background: #FFF;
 	}
 
 		.box .content {
@@ -2234,7 +2234,7 @@
 
 	input[type="checkbox"] + label,
 	input[type="radio"] + label {
-		color: #000000;
+		color: #444;
 	}
 
 		input[type="checkbox"] + label:before,
