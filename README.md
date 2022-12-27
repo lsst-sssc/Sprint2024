@@ -1,2 +1,2 @@
-# sprint_website
-SSSC readiness sprint website
+# 2022 Sprint Website
+virtual SSSC readiness sprint website
