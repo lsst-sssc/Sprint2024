@@ -1630,7 +1630,7 @@
 
 	body {
 		background-color: #fff;
-		color: #444;
+		color: #000000;
 	}
 
 	body, input, select, textarea {
@@ -1649,7 +1649,7 @@
 		}
 
 	strong, b {
-		font-weight: 600;
+		font-weight: 900;
 	}
 
 	em, i {
@@ -1766,7 +1766,7 @@
 	}
 
 	input, select, textarea {
-		color: #555;
+		color: #000000;
 	}
 
 	a {
@@ -1774,11 +1774,11 @@
 	}
 
 	strong, b {
-		color: #555;
+		color: #008080;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+	p,li, h1, h2, h3, h4, h5, h6 {
+		color: #000000;
 	}
 
 	blockquote {
@@ -1992,7 +1992,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #5AA6ED;
+			background-color: #008080;
 			color: #ffffff !important;
 		}
 
@@ -2009,7 +2009,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #439aea;
+				background-color: #008080;
 			}
 
 /* Form */
@@ -2761,7 +2761,7 @@
 				.wrapper.style1 button.special,
 				.wrapper.style1 .button.special {
 					background-color: #ffffff;
-					color: #5AA6ED !important;
+					color: #008080 !important;
 				}
 
 			.wrapper.style1 label {
@@ -2952,7 +2952,7 @@
 				.wrapper.style2 input[type="button"].special,
 				.wrapper.style2 button.special,
 				.wrapper.style2 .button.special {
-					background-color: #5AA6ED;
+					background-color: #008080;
 					color: #ffffff !important;
 				}
 
@@ -2969,7 +2969,7 @@
 					.wrapper.style2 input[type="button"].special:active,
 					.wrapper.style2 button.special:active,
 					.wrapper.style2 .button.special:active {
-						background-color: #439aea;
+						background-color:  #008080;
 					}
 
 			.wrapper.style2 label {
